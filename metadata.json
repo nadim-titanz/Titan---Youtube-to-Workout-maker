@@ -1,0 +1,6 @@
+{
+  "name": "Titanz",
+  "description": "Transform YouTube workout videos into interactive workouts with timers, sets, reps, frame visuals, merging, and customizable routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
